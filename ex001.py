@@ -1,4 +1,4 @@
 # imprimindo um nome com parametro
 
-nome = input('digite seu nome: ')
+nome = input('informe seu nome: ')
 print(f'prazer em te conhecer {nome}!')
